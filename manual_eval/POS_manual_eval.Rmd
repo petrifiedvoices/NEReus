@@ -1,0 +1,197 @@
+---
+title: "Manual POS of Latin inscriptions"
+author: 
+- Petra Hermankova^[Aarhus University, Denmark, https://orcid.org/0000-0002-6349-0540]
+date: "`r format(Sys.Date())`"
+output:
+  html_document:
+    theme: united
+    toc: yes
+    toc_float: true
+    number_sections: true
+    toc_depth: 3
+    df_print: paged
+---
+
+# Initial setup
+
+```{r setup, echo=TRUE, message=FALSE, warning = FALSE}
+
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(jsonlite)
+library(stringi)
+library(sfarrow)
+library(arrow)
+```
+
+```{r dowloading data}
+# getwd() # check you working directory
+dir.create("./data")
+
+# download as a local copy from Zenodo
+download.file("https://zenodo.org/records/10473706/files/LIST_v1-2.parquet?download=1", "./data/LIST_v1-2.parquet")
+
+```
+
+```{r loading data}
+LIST <- read_parquet("./data/LIST_v1-2.parquet")
+```
+
+## Finding inscriptions
+
+```{r}
+data<- LIST %>% 
+  filter(`LIST-ID`%in% c("2229", "16916", "26357", "54129", "220874", 
+                         "245634", "254616", "255548", "261491", "262652",
+                         "271618", "294321", "304345", "406671", "470643", 
+                         "471054", "483054", "513507", "514613", "514722")) %>% 
+  select(`LIST-ID`, inscription, clean_text_interpretive_word, type_of_inscription_auto, urban_context_city, Latitude, Longitude, not_before, not_after)
+```
+
+```{r}
+data
+
+```
+```{r}
+id <- 1
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 2
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 3
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+
+```{r}
+id <- 4 #  very long, left for later
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 5 #  very long, left for later
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+
+```{r}
+id <- 6 
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 7
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 8
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 9
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 10
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 11
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 12
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 13
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 14
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 15
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 16 # need to repeat this once the file is fixed
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+ 
+```{r}
+id <- 17
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 18 # too long
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 19
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```
+
+```{r}
+id <- 20
+data$`LIST-ID`[id]
+data$inscription[id]
+data$clean_text_interpretive_word[id]
+```

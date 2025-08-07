@@ -1,6 +1,7 @@
 .*
 !/.gitignore
-
+./manual_eval/data
+.Rproj.user
 .parquet
 
 # Byte-compiled / optimized / DLL files
@@ -206,3 +207,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.Rproj.user
