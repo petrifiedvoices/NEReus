@@ -13,5 +13,6 @@ dependencies = [
     "pyarrow>=21.0.0",
     "rich>=14.1.0",
     "spacy>=3.8.7",
+    "stanza>=1.10.1",
     "treetaggerwrapper>=2.3",
 ]
