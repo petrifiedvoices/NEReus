@@ -1,0 +1,219 @@
+[
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is 'ter<t=C>iana{s}'. The editor corrects 'C' to 't' and removes a superfluous 's'. This refers to 'febris tertiana', a fever recurring every third day, a common target in defixiones.",
+    "Lemma": "tertianus",
+    "POS": "ADJ",
+    "Reason for classification": "This is the adjective 'tertianus, -a, -um'. The form 'tertiana' is feminine singular nominative, modifying an implied 'febris' (fever)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is 'quartana[3]', followed by a lacuna. This refers to 'febris quartana', a fever recurring every fourth day.",
+    "Lemma": "quartanus",
+    "POS": "ADJ",
+    "Reason for classification": "This is the adjective 'quartanus, -a, -um'. The form 'quartana' is feminine singular nominative, modifying an implied 'febris' (fever)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is '[pal]l<u=O>ris'. The editor reconstructs the initial 'pal' and corrects the inscriber's 'o' to 'u'. The intended word is 'palloris', meaning 'of paleness'.",
+    "Lemma": "pallor",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'pallor, palloris' (m.). The form 'palluris' is a common Vulgar Latin variant of the genitive singular 'palloris'."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Standard Latin word for 'chills' or 'cold fits', fitting the context of cursing someone with fever symptoms.",
+    "Lemma": "frigus",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'frigus, frigoris' (n.). The form 'frigora' is the neuter plural, nominative or accusative."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Standard Latin word for 'diseases', a common element in curse tablets.",
+    "Lemma": "morbus",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'morbus, morbi' (m.). The form 'morbos' is the masculine plural accusative."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'em[3]', indicating it is a fragment followed by a lacuna. It is too short to be identified.",
+    "Lemma": "em",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment of a word. It could be the beginning of many Latin words (e.g., 'emicrania') or a vox magica."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is '[3 P]orcellus'. The editor reconstructs the initial 'P'. Porcellus is a known Roman cognomen, likely the name of the target or another individual involved.",
+    "Lemma": "Porcellus",
+    "POS": "PROPN",
+    "Reason for classification": "This is a proper noun, a Roman cognomen. The form 'Porcellus' is masculine singular nominative."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is 'm<u=A>lomedicus'. The editor corrects the inscriber's 'a' to 'u'. A 'mulomedicus' is a veterinarian, which may be the profession of Porcellus.",
+    "Lemma": "mulomedicus",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'mulomedicus, -i' (m.). The form 'mulomedicus' is masculine singular nominative, in apposition to Porcellus."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is '[3 a]rdor'. The editor reconstructs the initial 'a'. 'Ardor' means 'burning heat' or 'fever', consistent with the other symptoms listed.",
+    "Lemma": "ardor",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'ardor, ardoris' (m.). The form 'ardor' is masculine singular nominative."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "This word does not correspond to a standard Latin or Greek term. Given the context of a defixio, it is likely a 'vox magica' (magical word) or a proper name.",
+    "Lemma": "autus",
+    "POS": "X",
+    "Reason for classification": "The form 'autus' is morphologically unidentifiable in Latin or Greek. It is classified as 'X' as it is likely a magical formula or name."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "This word could be a transliteration of a Greek form or the name of the Egyptian deity Aton. In the context of a defixio, it is most likely a 'vox magica'.",
+    "Lemma": "aton",
+    "POS": "X",
+    "Reason for classification": "The form 'aton' is unidentifiable in this context. It could be a proper noun or a magical word. Lacking clear grammatical function, it is classified as 'X'."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is 'ad[3]', followed by a lacuna.",
+    "Lemma": "ad",
+    "POS": "ADP",
+    "Reason for classification": "This is the common Latin preposition 'ad', which takes the accusative case."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]aseimi', preceded by a lacuna. This does not correspond to any known Latin or Greek word and is characteristic of magical language.",
+    "Lemma": "aseimi",
+    "POS": "X",
+    "Reason for classification": "The form 'aseimi' is morphologically unidentifiable. It is classified as 'X' as it is likely a 'vox magica'."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The word in the inscription is 'amor[1]ab', with a one-character lacuna before 'ab'. 'Amor' (love) could be a target of the curse.",
+    "Lemma": "amor",
+    "POS": "NOUN",
+    "Reason for classification": "This is the noun 'amor, amoris' (m.). The form 'amor' is masculine singular nominative."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Standard Latin preposition.",
+    "Lemma": "ab",
+    "POS": "ADP",
+    "Reason for classification": "This is the common Latin preposition 'ab', which takes the ablative case."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'ace[3]', followed by a lacuna. This is a fragment and cannot be identified with certainty.",
+    "Lemma": "ace",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment of a word. It could be the ablative of 'acies' or part of a magical word."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3] gymni', preceded by a lacuna. This is not a standard Latin word. It may be related to Greek 'γυμνός' (naked) or be a 'vox magica'.",
+    "Lemma": "gymni",
+    "POS": "X",
+    "Reason for classification": "The form 'gymni' is morphologically unidentifiable in this context. It is classified as 'X' as it is likely a 'vox magica'."
+  },
+  {
+    "Confidence": "Medium",
+    "Interpretive Notes": "This word is likely a Latin transliteration of the Greek adjective 'ἄμορφος' (amorphos), meaning 'shapeless' or 'ugly', which fits the context of a curse.",
+    "Lemma": "amorphus",
+    "POS": "ADJ",
+    "Reason for classification": "This form appears to be the nominative singular masculine of a Latinized Greek adjective 'amorphus, -a, -um'. The non-standard nature warrants Medium confidence."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'pant[3]', followed by a lacuna. This is a fragment.",
+    "Lemma": "pant",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment. It could be the beginning of a Greek-derived word (e.g., 'panton') but is too short to be certain."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]meras', preceded by a lacuna. It could be related to Greek 'ἡμέρα' (day) or be a 'vox magica'.",
+    "Lemma": "meras",
+    "POS": "X",
+    "Reason for classification": "The form 'meras' is morphologically unidentifiable in this fragmented and magical context. It is classified as 'X'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "This word does not correspond to any known Latin or Greek word and is characteristic of the magical language found in defixiones.",
+    "Lemma": "ceoras",
+    "POS": "X",
+    "Reason for classification": "The form 'ceoras' is morphologically unidentifiable. It is classified as 'X' as it is a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'macas[3]', followed by a lacuna. This is likely a 'vox magica'.",
+    "Lemma": "macas",
+    "POS": "X",
+    "Reason for classification": "The form 'macas' is morphologically unidentifiable. It is classified as 'X' as it is a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]ctrias', preceded by a lacuna. This is a fragment of a word.",
+    "Lemma": "ctrias",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment. The ending is common in Greek nouns, but without the beginning of the word, no identification is possible."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "This word does not correspond to any known Latin or Greek word and is characteristic of the magical language found in defixiones.",
+    "Lemma": "catapomas",
+    "POS": "X",
+    "Reason for classification": "The form 'catapomas' is morphologically unidentifiable. It is classified as 'X' as it is a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'si[3]', followed by a lacuna. While it could be the conjunction 'si' (if), the surrounding magical text and fragmentation make this uncertain.",
+    "Lemma": "si",
+    "POS": "X",
+    "Reason for classification": "The token is ambiguous. It could be the conjunction 'si', but given it is followed by a lacuna in a nonsensical context, it is safer to classify it as an unidentifiable token or fragment."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]as', preceded by a lacuna. This is a fragment.",
+    "Lemma": "as",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment. It could be a common noun ending (accusative plural, 1st declension), but the word itself is missing."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "This word does not correspond to any known Latin or Greek word and is characteristic of the magical language found in defixiones.",
+    "Lemma": "enpractias",
+    "POS": "X",
+    "Reason for classification": "The form 'enpractias' is morphologically unidentifiable. It is classified as 'X' as it is a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is 'leson[3]', followed by a lacuna. It might be a misspelling of the Greek aorist imperative 'λῦσον' (lyson - release!), but this is speculative. It is best treated as a 'vox magica'.",
+    "Lemma": "leson",
+    "POS": "X",
+    "Reason for classification": "The form 'leson' is morphologically unidentifiable in this context. It is classified as 'X' as it is likely a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]eisopeisos[1]t', surrounded by lacunae. This is a classic example of a 'vox magica', a nonsensical word used for its sound or perceived power.",
+    "Lemma": "eisopeisos",
+    "POS": "X",
+    "Reason for classification": "The form 'eisopeisos' is morphologically unidentifiable. It is classified as 'X' as it is a 'vox magica'."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[1]t', a single letter preceded by a lacuna. It is a fragment.",
+    "Lemma": "t",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment of a word."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The word in the inscription is '[3]es[', surrounded by lacunae. It is a fragment.",
+    "Lemma": "es",
+    "POS": "X",
+    "Reason for classification": "This is an unidentifiable fragment. It could be the verb 'es' (you are) or a noun ending, but the context is too broken to determine."
+  }
+]

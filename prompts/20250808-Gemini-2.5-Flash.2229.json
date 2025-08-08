@@ -1,0 +1,219 @@
+[
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Resolution of `ter<t=C>iana` from `terCiana` (inscriber's error corrected by editor). The `{s}` indicates a superfluous letter removed by the editor. The `]` indicates lost text at the beginning of the line.",
+    "Lemma": "tertianus",
+    "POS": "ADJ",
+    "Reason for classification": "Adjective, feminine singular, nominative or ablative, referring to a fever recurring every third day."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "quartanus",
+    "POS": "ADJ",
+    "Reason for classification": "Adjective, feminine singular, nominative or ablative, referring to a fever recurring every fourth day."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Reconstruction `[pal]` by editor. Correction `l<u=O>ris` from `lOris` (inscriber's error corrected by editor).",
+    "Lemma": "pallor",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine, genitive singular of `pallor, -oris` (paleness), consistent with the context of diseases."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "frigus",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, neuter plural, nominative or accusative, from `frigus, frigoris` (cold, chill)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "morbus",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine plural, accusative. Archaic or vulgar spelling for `morbus` (disease)."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. The token is likely an abbreviation, a truncated word, or part of a magical formula in this defixio context.",
+    "Lemma": "em",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or abbreviation given the defixio context and surrounding lacuna."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[3 P]` indicates a lacuna of unknown length before the letter P, and the P is part of the reconstruction.",
+    "Lemma": "Porcellus",
+    "POS": "PROPN",
+    "Reason for classification": "Proper noun, masculine singular, nominative. A known cognomen or nickname."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "Correction `m<u=A>lomedicus` from `mAlomedicus` (inscriber's error corrected by editor). The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "mulomedicus",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine singular, nominative, referring to a veterinarian specializing in mules."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[3 a]` indicates a lacuna of unknown length before the letter A, and the A is part of the reconstruction.",
+    "Lemma": "ardor",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine singular, nominative, from `ardor, ardoris` (burning, heat)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "autus",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine singular, nominative, from `autus, autus` (growth, increase), fitting the context of symptoms."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. The token is likely a corrupted form or part of a magical formula.",
+    "Lemma": "aton",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "ad",
+    "POS": "ADP",
+    "Reason for classification": "Preposition, takes accusative case."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. The token is likely a corrupted form or part of a magical formula.",
+    "Lemma": "aseimi",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[1]` indicates a lacuna of unknown length.",
+    "Lemma": "amor",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, masculine singular, nominative, from `amor, amoris` (love)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "ab",
+    "POS": "ADP",
+    "Reason for classification": "Preposition, takes ablative case."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. The token is likely a corrupted form or part of a magical formula.",
+    "Lemma": "ace",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "Medium",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. Likely a Greek loanword.",
+    "Lemma": "gymnus",
+    "POS": "ADJ",
+    "Reason for classification": "Adjective, masculine, genitive singular or nominative/vocative plural of `gymnus` (naked, bare), a Greek loanword. Ambiguity in case/number."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "amorphus",
+    "POS": "ADJ",
+    "Reason for classification": "Adjective, masculine singular, nominative. A corrupted spelling of Greek `amorphus` (shapeless, formless)."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. The token is likely a truncated Greek word or part of a magical formula.",
+    "Lemma": "pant",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or truncated Greek word given the defixio context."
+  },
+  {
+    "Confidence": "Medium",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length. Likely a Greek loanword.",
+    "Lemma": "meros",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, neuter, accusative plural of Greek `meros` (part, portion). Ambiguity due to potential corruption."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "None.",
+    "Lemma": "ceoras",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "macas",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "ctrias",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "None.",
+    "Lemma": "catapoma",
+    "POS": "NOUN",
+    "Reason for classification": "Noun, neuter, accusative plural. A corrupted form of Greek `katapoma` (a drink, potion, or something swallowed)."
+  },
+  {
+    "Confidence": "High",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "si",
+    "POS": "SCONJ",
+    "Reason for classification": "Subordinating conjunction (if)."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "as",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; highly ambiguous given the defixio context and surrounding lacuna."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "None.",
+    "Lemma": "enpractias",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length.",
+    "Lemma": "leson",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; likely a magical word or corrupted form given the defixio context."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length before the word. The `[1]` indicates a lacuna of unknown length after the word.",
+    "Lemma": "eisopeisos",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; highly likely a *vox magica* or severely corrupted Greek word."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[1]` indicates a lacuna of unknown length before the letter.",
+    "Lemma": "t",
+    "POS": "X",
+    "Reason for classification": "Single letter; likely a truncated word, abbreviation, or part of a magical formula."
+  },
+  {
+    "Confidence": "Low",
+    "Interpretive Notes": "The `[3]` indicates a lacuna of unknown length before the word. The `[` indicates a lacuna of unknown length at the end of the line.",
+    "Lemma": "es",
+    "POS": "X",
+    "Reason for classification": "Unidentifiable token; highly ambiguous given the defixio context and surrounding lacunae."
+  }
+]

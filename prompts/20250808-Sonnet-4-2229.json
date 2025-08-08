@@ -1,0 +1,219 @@
+[
+{
+"Interpretive Notes": "Medical term in a defixio. From inscription field: 'ter<t=C>iana{s}' shows editorial correction of C to T and removal of superfluous S. Refers to tertian fever occurring every third day.",
+"Reason for classification": "Standard Latin adjective 'tertianus' in feminine form, but functioning substantively here to describe a type of fever. Classical medical terminology.",
+"Confidence": "High",
+"Lemma": "tertianus",
+"POS": "ADJ"
+},
+{
+"Interpretive Notes": "Medical term referring to quartan fever in this defixio context. Follows 'tertiana' in a list of ailments.",
+"Reason for classification": "Standard Latin adjective 'quartanus' in feminine form, used substantively to describe fever recurring every fourth day. Medical terminology.",
+"Confidence": "High",
+"Lemma": "quartanus",
+"POS": "ADJ"
+},
+{
+"Interpretive Notes": "From inscription: '[pal]l<u=O>ris' shows reconstruction of 'pal' and correction of O to U. Appears to be a corrupted form, possibly related to 'pallor' (paleness).",
+"Reason for classification": "The expected genitive of 'pallor' would be 'palloris', not 'palluris'. This appears to be a non-standard or corrupted form in the context of voces magicae.",
+"Confidence": "Medium",
+"Lemma": "pallor",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Standard Latin word in accusative/nominative plural, referring to cold or chills in medical context of this defixio.",
+"Reason for classification": "Clearly identifiable as accusative/nominative plural of 'frigus, frigoris' (cold, chill). Standard third declension neuter noun.",
+"Confidence": "High",
+"Lemma": "frigus",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Standard Latin medical term in accusative plural, listing diseases/ailments in this defixio targeting health.",
+"Reason for classification": "Clear accusative plural of 'morbus, morbi' (disease, illness). Second declension masculine noun in standard form.",
+"Confidence": "High",
+"Lemma": "morbus",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Follows 'morbos' and precedes lacuna [3]. Could be truncated word or part of magical formula. Context of defixio suggests possible voces magicae.",
+"Reason for classification": "Unclear form, possibly truncated due to damage. Could be part of 'emat' or similar, but insufficient evidence for standard Latin identification.",
+"Confidence": "Low",
+"Lemma": "em",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Proper name (capitalized) meaning 'little pig' but used as personal name. Target of this defixio. From inscription: '[3 P]orcellus' shows reconstruction.",
+"Reason for classification": "Proper noun functioning as personal name. 'Porcellus' is diminutive of 'porcus' but here serves as cognomen or nickname.",
+"Confidence": "High",
+"Lemma": "Porcellus",
+"POS": "PROPN"
+},
+{
+"Interpretive Notes": "From inscription: 'm<u=A>lomedicus' shows correction of A to U. Compound word meaning 'mule doctor' or veterinarian, describing Porcellus's profession.",
+"Reason for classification": "Compound noun from 'mulus' + 'medicus' (mule doctor). Technical term for veterinarian, particularly one who treats pack animals.",
+"Confidence": "High",
+"Lemma": "mulomedicus",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Standard Latin noun meaning burning heat or passion. In medical/defixio context, likely refers to fever or burning sensation.",
+"Reason for classification": "Clear nominative singular of 'ardor, ardoris' (burning, heat, passion). Third declension masculine noun in standard form.",
+"Confidence": "High",
+"Lemma": "ardor",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Non-standard form in defixio context. Not recognizable as classical Latin, likely part of magical formula or voces magicae.",
+"Reason for classification": "Does not match any standard Latin word forms. In context of curse tablet, appears to be magical language or corrupted text.",
+"Confidence": "Low",
+"Lemma": "autus",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Unidentifiable as standard Latin. In defixio context, likely voces magicae or magical name/word used in the curse formula.",
+"Reason for classification": "No clear Latin etymology or morphology. Appears to be part of magical language typical in defixiones.",
+"Confidence": "Low",
+"Lemma": "aton",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Standard Latin preposition, maintains normal function even within magical context of defixio.",
+"Reason for classification": "Clear Latin preposition meaning 'to, toward, at'. Standard form and usage with accusative.",
+"Confidence": "High",
+"Lemma": "ad",
+"POS": "ADP"
+},
+{
+"Interpretive Notes": "Unidentifiable as Latin word. In defixio context, appears to be voces magicae or part of magical incantation.",
+"Reason for classification": "No recognizable Latin morphology or etymology. Typical of magical language found in curse tablets.",
+"Confidence": "Low",
+"Lemma": "aseimi",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Standard Latin noun meaning love. Significant in defixio context as love/erotic magic was common theme in such tablets.",
+"Reason for classification": "Clear nominative singular of 'amor, amoris' (love). Third declension masculine noun in standard form.",
+"Confidence": "High",
+"Lemma": "amor",
+"POS": "NOUN"
+},
+{
+"Interpretive Notes": "Standard Latin preposition maintaining normal grammatical function within the magical text.",
+"Reason for classification": "Clear Latin preposition 'ab' (from, by, away from) used with ablative case. Standard form.",
+"Confidence": "High",
+"Lemma": "ab",
+"POS": "ADP"
+},
+{
+"Interpretive Notes": "Follows preposition 'ab' and precedes lacuna. Could be truncated word or voces magicae. Insufficient context for identification.",
+"Reason for classification": "Unclear form, possibly truncated. Could be ablative of unknown noun, but insufficient evidence for classification.",
+"Confidence": "Low",
+"Lemma": "ace",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Form suggests possible connection to Greek 'gymnos' but morphology is unclear. In defixio context, likely voces magicae.",
+"Reason for classification": "Not standard Latin form. While possibly related to Greek vocabulary, the exact morphology and meaning are unclear.",
+"Confidence": "Low",
+"Lemma": "gymni",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Not identifiable as standard Latin. In defixio context, appears to be voces magicae or corrupted magical word.",
+"Reason for classification": "No recognizable Latin morphology. Appears to be part of magical language typical in curse tablets.",
+"Confidence": "Low",
+"Lemma": "amorfus",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Could be truncated form due to lacuna, or voces magicae. Context insufficient for clear identification as Latin word.",
+"Reason for classification": "Unclear form, possibly truncated or magical language. No clear Latin etymology or complete word form.",
+"Confidence": "Low",
+"Lemma": "pant",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Could potentially be accusative plural of 'merus' (pure) but context and following words suggest voces magicae instead.",
+"Reason for classification": "While form could theoretically match Latin 'meras' (acc. pl. of merus), context with surrounding non-Latin words suggests magical language.",
+"Confidence": "Low",
+"Lemma": "meras",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Not identifiable as Latin word. Part of sequence of voces magicae in this defixio.",
+"Reason for classification": "No recognizable Latin morphology or etymology. Appears to be magical language.",
+"Confidence": "Low",
+"Lemma": "ceoras",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Unidentifiable as Latin. Part of magical formula or voces magicae sequence in curse tablet.",
+"Reason for classification": "No clear Latin etymology or morphology. Consistent with magical language found in defixiones.",
+"Confidence": "Low",
+"Lemma": "macas",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Non-Latin form, part of voces magicae sequence. Possibly corrupted or intentionally altered magical word.",
+"Reason for classification": "Does not match Latin morphological patterns. Appears to be part of magical incantation.",
+"Confidence": "Low",
+"Lemma": "ctrias",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Complex form not matching Latin patterns. Likely compound voces magicae word in magical context of defixio.",
+"Reason for classification": "No recognizable Latin structure. Appears to be sophisticated magical terminology typical of curse tablets.",
+"Confidence": "Low",
+"Lemma": "catapomas",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Could potentially be Latin conjunction 'si' (if) but context with surrounding voces magicae makes identification uncertain.",
+"Reason for classification": "While form matches Latin 'si', the magical context and surrounding non-Latin words create ambiguity about function.",
+"Confidence": "Medium",
+"Lemma": "si",
+"POS": "SCONJ"
+},
+{
+"Interpretive Notes": "Could be accusative plural feminine ending or part of voces magicae. Context with magical words makes identification unclear.",
+"Reason for classification": "Ambiguous form - could be Latin morphological element or magical language. Insufficient context for certainty.",
+"Confidence": "Low",
+"Lemma": "as",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Compound-looking form not matching Latin patterns. Part of voces magicae sequence in defixio.",
+"Reason for classification": "No recognizable Latin morphology. Appears to be magical language with possible Greek elements but unclear structure.",
+"Confidence": "Low",
+"Lemma": "enpractias",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Unidentifiable as Latin word. Continues sequence of voces magicae in curse tablet.",
+"Reason for classification": "No clear Latin etymology or morphological pattern. Consistent with magical language of defixiones.",
+"Confidence": "Low",
+"Lemma": "leson",
+"POS": "X"
+},
+{
+"Interpretive Notes": "From inscription shows '[1]' lacuna. Complex form not matching Latin, likely elaborate voces magicae word.",
+"Reason for classification": "No recognizable Latin structure. Appears to be sophisticated magical terminology, possibly with Greek elements.",
+"Confidence": "Low",
+"Lemma": "eisopeisos",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Single letter likely represents truncated word due to damage, as suggested by lacuna context in inscription.",
+"Reason for classification": "Insufficient material to identify. Appears to be fragment of larger word lost to damage.",
+"Confidence": "Low",
+"Lemma": "t",
+"POS": "X"
+},
+{
+"Interpretive Notes": "Could be verb form 'es' (you are) or truncated word. Final word before lacuna '[ ' suggests incomplete text.",
+"Reason for classification": "While form matches 2nd person singular 'sum', context and position suggest possible truncation or magical language.",
+"Confidence": "Low",
+"Lemma": "es",
+"POS": "X"
+}
+]

@@ -1,0 +1,30 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "Interpretive Notes": {
+        "type": "string"
+      },
+      "Reason for classification": {
+        "type": "string"
+      },
+      "Confidence": {
+        "type": "string"
+      },
+      "Lemma": {
+        "type": "string"
+      },
+      "POS": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "Interpretive Notes",
+      "Reason for classification",
+      "Confidence",
+      "Lemma",
+      "POS"
+    ]
+  }
+}
