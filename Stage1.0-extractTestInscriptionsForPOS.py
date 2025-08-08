@@ -52,13 +52,15 @@ def extract_inscriptions_for_pos_testing(
     # Verify required columns exist
     required_cols = [
         'LIST-ID', 
+        'inscription',
         'clean_text_conservative',
         'clean_text_interpretive_word',
         'clean_text_interpretive_sentence',
         'not_before',
         'not_after',
-        'geometry',
-        'findspot_ancient_clean',
+        'Latitude',
+        'Longitude',
+        'type_of_inscription_auto',
         'urban_context_city'
     ]
     
@@ -103,9 +105,11 @@ def extract_inscriptions_for_pos_testing(
     for idx, row in sampled_df.iterrows():
         inscription_data = {
             'LIST-ID': row.get('LIST-ID'),
+            'inscription': row.get('inscription'),
             'text_conservative': row.get('clean_text_conservative'),
             'text_interpretive_word': row.get('clean_text_interpretive_word'),
             'text_interpretive_sentence': row.get('clean_text_interpretive_sentence'),
+            'type_of_inscription_auto': row.get('type_of_inscription_auto'),
             'dating': {
                 'not_before': int(row['not_before']) if pd.notna(row.get('not_before')) else None,
                 'not_after': int(row['not_after']) if pd.notna(row.get('not_after')) else None
@@ -113,7 +117,6 @@ def extract_inscriptions_for_pos_testing(
             'geography': {
                 'latitude': row.get('Latitude') if pd.notna(row.get('Latitude')) else None,
                 'longitude': row.get('Longitude') if pd.notna(row.get('Longitude')) else None,
-                'findspot_ancient': row.get('findspot_ancient_clean') if pd.notna(row.get('findspot_ancient_clean')) else None,
                 'urban_context_city': row.get('urban_context_city') if pd.notna(row.get('urban_context_city')) else None
             },
             'text_length': int(row['text_length'])
@@ -162,7 +165,6 @@ def extract_inscriptions_for_pos_testing(
         'interpretive_sentence': sum(1 for item in output_data if not item['text_interpretive_sentence']),
         'not_before': sum(1 for item in output_data if item['dating']['not_before'] is None),
         'not_after': sum(1 for item in output_data if item['dating']['not_after'] is None),
-        'findspot_ancient': sum(1 for item in output_data if not item['geography']['findspot_ancient']),
         'urban_context_city': sum(1 for item in output_data if not item['geography']['urban_context_city'])
     }
     
