@@ -195,3 +195,13 @@ data$`LIST-ID`[id]
 data$inscription[id]
 data$clean_text_interpretive_word[id]
 ```
+
+```{r}
+data %>% 
+  filter(`LIST-ID`=="514613")
+```
+
+```{r}
+LIST %>% 
+  filter(`LIST-ID`=="514613")
+```
